@@ -15,3 +15,11 @@ d. Dietary Preference: Dietary preference of the individual (Vegetarian/Non-vege
    
 f. Eating disorder habits: People having eating disorder habits (binge eating/ restrictive eating/no) g. Location: People residing in various 
    cities in Illinois state.
+
+## 📈 Key Findings
+- Identified demographic trends influencing calorie intake
+- Achieved 95% prediction accuracy for daily calorie consumption
+
+## 🚀 Future Work
+- Extend analysis to include time-series trends
+- Apply clustering techniques for dietary segmentation
